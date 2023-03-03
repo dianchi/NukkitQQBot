@@ -1,0 +1,12 @@
+name: NukkitQQBot
+main: top.promisedland.top.promisedland.nukkitqqbot.Main
+version: "-SNAPSHOT"
+api: ["1.0.11"]
+load: POSTWORLD
+author: "BatryCC"
+website: "https://www.promisedland.top"
+
+commands:
+  qchat:
+    description: qchat指令
+    usage: "/qchat"

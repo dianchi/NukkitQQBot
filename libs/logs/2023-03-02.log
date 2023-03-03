@@ -1,0 +1,43 @@
+[2023-03-02 12:12:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-02 12:27:07] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:29:08] [WARNING]: 转换CQ码 [CQ:video,file=http://baidu.com/1.mp4] 时出现错误: extract video cover failed: exec: "ffmpeg": executable file not found in %PATH% 将原样发送. 
+[2023-03-02 12:29:50] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-03-02 12:30:41] [WARNING]: 警告: 群 623376778 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-03-02 12:30:41] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:33:41] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:38:11] [WARNING]: 转换CQ码 [CQ:cardimage,file=https://i.pixiv.cat/img-master/img/2020/03/25/00/00/08/80334602_p0_master1200.jpg] 时出现错误: send cardimage faild 将原样发送. 
+[2023-03-02 12:43:21] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:43:21] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:47:52] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:48:07] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 12:48:25] [WARNING]: 警告: 群 623376778 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-03-02 12:48:25] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 13:13:12] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-03-02 13:13:19] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-03-02 13:33:51] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 13:36:50] [WARNING]: 转换CQ码 ({"message":{"type":"json","data":{"data":"{\"app\":\"com.tencent.structmsg\",\"config\":{\"autosize\":true,\"ctime\":1646636423,\"forward\":true,\"token\":\"6e8da4fcc2adc441ec3addec3bb43c9c\",\"type\":\"normal\"},\"desc\":\"新闻\",\"extra\":{\"app_type\":1,\"appid\":100951776,\"uin\":1622912909},\"meta\":{\"news\":{\"action\":\"\",\"android_pkg_name\":\"\",\"app_type\":1,\"appid\":100951776,\"ctime\":1646636423,\"desc\":\"UP主：夏白熊烨-房间号：45378\",\"jumpUrl\":\"https://b23.tv/K3mjNd8\",\"preview\":\"https://pic.ugcimg.cn/e9047036331c8b361435a17a3f64e224/jpg1\",\"source_icon\":\"\",\"source_url\":\"\",\"tag\":\"哔哩哔哩\",\"title\":\"白熊受苦受难中\",\"uin\":1622912909}},\"prompt\":\"[分享]白熊受苦受难中\",\"ver\":\"0.0.0.1\",\"view\":\"news\"}"}}}) 到MiraiGo Element时出现错误: unsupported cq code:  将忽略本段CQ码. 
+[2023-03-02 13:36:50] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 13:36:50] [WARNING]: 转换CQ码 ({"message":{"type":"json","data":{"data":"{\"app\":\"com.tencent.structmsg\",\"config\":{\"autosize\":true,\"ctime\":1646636423,\"forward\":true,\"token\":\"6e8da4fcc2adc441ec3addec3bb43c9c\",\"type\":\"normal\"},\"desc\":\"新闻\",\"extra\":{\"app_type\":1,\"appid\":100951776,\"uin\":1622912909},\"meta\":{\"news\":{\"action\":\"\",\"android_pkg_name\":\"\",\"app_type\":1,\"appid\":100951776,\"ctime\":1646636423,\"desc\":\"UP主：夏白熊烨-房间号：45378\",\"jumpUrl\":\"https://b23.tv/K3mjNd8\",\"preview\":\"https://pic.ugcimg.cn/e9047036331c8b361435a17a3f64e224/jpg1\",\"source_icon\":\"\",\"source_url\":\"\",\"tag\":\"哔哩哔哩\",\"title\":\"白熊受苦受难中\",\"uin\":1622912909}},\"prompt\":\"[分享]白熊受苦受难中\",\"ver\":\"0.0.0.1\",\"view\":\"news\"}"}}}) 到MiraiGo Element时出现错误: unsupported cq code:  将忽略本段CQ码. 
+[2023-03-02 13:36:50] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 13:37:33] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 13:37:33] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 13:38:33] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-03-02 13:38:52] [WARNING]: 转换CQ码 ({"message":{"type":"json","data":{"data":"{\"app\":\"com.tencent.structmsg\",\"config\":{\"autosize\":true,\"ctime\":1646636423,\"forward\":true,\"token\":\"6e8da4fcc2adc441ec3addec3bb43c9c\",\"type\":\"normal\"},\"desc\":\"新闻\",\"extra\":{\"app_type\":1,\"appid\":100951776,\"uin\":1622912909},\"meta\":{\"news\":{\"action\":\"\",\"android_pkg_name\":\"\",\"app_type\":1,\"appid\":100951776,\"ctime\":1646636423,\"desc\":\"UP主：夏白熊烨-房间号：45378\",\"jumpUrl\":\"https://b23.tv/K3mjNd8\",\"preview\":\"https://pic.ugcimg.cn/e9047036331c8b361435a17a3f64e224/jpg1\",\"source_icon\":\"\",\"source_url\":\"\",\"tag\":\"哔哩哔哩\",\"title\":\"白熊受苦受难中\",\"uin\":1622912909}},\"prompt\":\"[分享]白熊受苦受难中\",\"ver\":\"0.0.0.1\",\"view\":\"news\"}"}}}) 到MiraiGo Element时出现错误: unsupported cq code:  将忽略本段CQ码. 
+[2023-03-02 13:38:52] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-03-02 14:08:14] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:12:48] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:13:21] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:13:23] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:16:40] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:21:17] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:21:26] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 14:21:35] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 17:46:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-02 17:48:29] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:08:52] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:09:10] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:09:59] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:20:03] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:20:14] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:20:20] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
+[2023-03-02 18:22:17] [WARNING]: 转换CQ码 [CQ:image,file=null] 时出现错误: invalid image 将原样发送. 
