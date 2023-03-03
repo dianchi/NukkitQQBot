@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.github.PowerNukkitX</groupId>
             <artifactId>PowerNukkitX</artifactId>
-            <version>9c057c6</version>
+            <version>9c057c6b42</version>
         </dependency>
         <dependency>
             <groupId>org.java-websocket</groupId>
